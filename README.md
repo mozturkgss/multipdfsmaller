@@ -1,2 +1,2 @@
-# multipdfsmaller
+# MultiPdfSmaller
 Open Source Multiple Pdf Smaller
