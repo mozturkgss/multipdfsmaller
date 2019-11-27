@@ -1,4 +1,4 @@
-# MultiPdfSmaller
+# Multi Pdf Smaller
 Open Source Multiple Pdf Smaller
 
 ## Download
