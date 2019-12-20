@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=MultiPdfSmaller
+Comment=MultiPdfSmaller
+Icon=/usr/share/pixmaps/MultiPdfSmaller.png
+Exec=/usr/share/multipdfsmaller/MultiPdfSmaller
+Terminal=false
+Type=Application
+Categories=Office
+GenericName=MultiPdfSmaller

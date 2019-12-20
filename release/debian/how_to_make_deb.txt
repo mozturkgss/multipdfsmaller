@@ -1,0 +1,8 @@
+1) Right click in the folder 'deb' and open terminal, then run this command:
+- A) dpkg-deb --build linux32
+- B) dpkg-deb --build linux64
+
+2) Change the name of the deb file to include version:
+- A) linux32.deb to multipdfsmaller_version_linux32.deb
+- B) linux64.deb to multipdfsmaller_version_linux64.deb
+

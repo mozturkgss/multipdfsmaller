@@ -1,0 +1,9 @@
+Package: MultiPdfSmaller
+Version: 1.0.1
+Section: office
+Priority: optional
+Architecture: amd64
+Depends: ghostscript, libgtk2.0-0 (>= 2.0), libgtk2.0-bin (>= 2.0), apt, apt-file
+Maintainer: mozt38@gmail.com
+Homepage: https://github.com/mozturkgss/multipdfsmaller
+Description: Multi Pdf Smaller Open Source Multiple Pdf Smaller
