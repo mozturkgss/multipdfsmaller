@@ -2,7 +2,10 @@
 Open Source Multiple Pdf Smaller
 
 ## Download
-Win32: https://github.com/mozturkgss/multipdfsmaller/files/3890520/1.0.zip
+Windows 32 Bit: https://github.com/mozturkgss/multipdfsmaller/releases/download/v1.0.1/multipdfsmaller_1.0.1_win32.zip
+Windows 64 Bit: https://github.com/mozturkgss/multipdfsmaller/releases/download/v1.0.1/multipdfsmaller_1.0.1_win64.zip
+Linux Debian 32 Bit: https://github.com/mozturkgss/multipdfsmaller/releases/download/v1.0.1/multipdfsmaller_1.0.1_linux32.deb
+Linux Debian 64 Bit: https://github.com/mozturkgss/multipdfsmaller/releases/download/v1.0.1/multipdfsmaller_1.0.1_linux64.deb
 
 ## Screenshot
 
