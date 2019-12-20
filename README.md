@@ -1,4 +1,5 @@
 # Multi Pdf Smaller
+
 MultiPdfSmaller is a open source software for Linux and Windows. Compresses pdf files to make it smaller. Ghostscript is used in the background. 
 
 ## Download
